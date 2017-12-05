@@ -76,9 +76,9 @@ This project demonstrates how to implement apachecxf service in Springboot and h
 
 ### Screenshots ###
 
-[apachecxf-jaxws-java2ws.png](apachecxf-jaxws-java2ws)
+![apachecxf-jaxws-java2ws](apachecxf-jaxws-java2ws.png)
 
-[apachecxf-jaxws-service.png](apachecxf-jaxws-service)
+![apachecxf-jaxws-service](apachecxf-jaxws-service.png)
 
 
 ### Happy Coding ###
